@@ -1,0 +1,13 @@
+{
+  "last_updated": "2026-05-21",
+  "instrument": "小台指期貨 (MTX)",
+  "point_value": 50,
+  "initial_margin": 200000,
+  "available_margin": 200000,
+  "used_margin": 0,
+  "position": null,
+  "cumulative_pnl": 0,
+  "trade_log": [
+    {"date": "2026-05-21", "action": "RESET", "direction": "", "contracts": 0, "entry_price": 0, "exit_price": 0, "pnl": 0, "reason": "期貨模擬起始，保證金20萬，等待明日開盤進場"}
+  ]
+}
