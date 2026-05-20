@@ -1,36 +1,10 @@
 {
   "last_updated": "2026-05-21",
   "initial_capital": 1000000,
-  "cash": 200000,
+  "cash": 1000000,
   "total_value": 1000000,
-  "holdings": [
-    {
-      "code": "2330",
-      "name": "台積電",
-      "shares": 381,
-      "avg_cost": 1050,
-      "current_price": 1050,
-      "market_value": 400050,
-      "allocation_pct": 40
-    },
-    {
-      "code": "2454",
-      "name": "聯發科",
-      "shares": 143,
-      "avg_cost": 1400,
-      "current_price": 1400,
-      "market_value": 200200,
-      "allocation_pct": 20
-    },
-    {
-      "code": "2317",
-      "name": "鴻海",
-      "shares": 952,
-      "avg_cost": 210,
-      "current_price": 210,
-      "market_value": 199920,
-      "allocation_pct": 20
-    }
-  ],
-  "trade_log": []
+  "holdings": [],
+  "trade_log": [
+    {"date": "2026-05-21", "action": "RESET", "code": "", "reason": "歸零起始，100% 現金，等待明日開盤選股買入", "price": 0, "shares": 0, "amount": 0}
+  ]
 }
